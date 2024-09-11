@@ -4,7 +4,3 @@ plugins:
 title: Permutation Limited
 description: Software Solutions, Limited Possibilities
 logo: /assets/PermutationLimited.png
-
-# Disable "View on Github"
-github:
-  is_project_page: false
