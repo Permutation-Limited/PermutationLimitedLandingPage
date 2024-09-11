@@ -4,3 +4,7 @@ plugins:
 title: Permutation Limited
 description: Permutation Limited
 logo: /assets/PermutationLimited.png
+
+# Disable "View on Github"
+github:
+  is_project_page: false
