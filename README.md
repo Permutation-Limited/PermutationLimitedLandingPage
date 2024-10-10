@@ -1,2 +1,2 @@
 # Permutation Limited
-Source for [permutationlimited.com](https://permutationlimited.com)
+Source code for [permutationlimited.com](https://permutationlimited.com).
